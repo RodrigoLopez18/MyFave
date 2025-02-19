@@ -26,7 +26,6 @@ int main()
   }while( input != "DONE" );
 
   cout << "Your favorite list:\n";
-
   for(int i = 0; i < favorites.size(); i++)
   {
 
